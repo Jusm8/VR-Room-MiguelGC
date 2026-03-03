@@ -992,7 +992,7 @@ MonoBehaviour:
   m_VisualPointCount: 20
   m_MaxVisualCurveDistance: 10
   m_RestingVisualLineLength: 0.15
-  m_LineDynamicsMode: 0
+  m_LineDynamicsMode: 1
   m_RetractDelay: 1
   m_RetractDuration: 0.5
   m_ExtendLineToEmptyHit: 0
@@ -5164,7 +5164,7 @@ MonoBehaviour:
   m_VisualPointCount: 20
   m_MaxVisualCurveDistance: 10
   m_RestingVisualLineLength: 0.15
-  m_LineDynamicsMode: 0
+  m_LineDynamicsMode: 1
   m_RetractDelay: 1
   m_RetractDuration: 0.5
   m_ExtendLineToEmptyHit: 0
