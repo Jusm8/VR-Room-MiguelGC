@@ -11314,6 +11314,14 @@ MonoBehaviour:
       m_Groups: 
       m_Action: Action
       m_Flags: 0
+    - m_Name: 
+      m_Id: 3cfa7997-3a46-421d-b2e8-dd485720a24f
+      m_Path: <XRController>{LeftHand}/thumbstickTouched
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Action
+      m_Flags: 0
     m_Flags: 0
   OnPress:
     m_PersistentCalls:
@@ -12555,6 +12563,14 @@ MonoBehaviour:
     - m_Name: 
       m_Id: 7ee0fdc7-5290-4b82-b73c-87468e7ff7ee
       m_Path: <XRController>{RightHand}/primaryButton
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Action
+      m_Flags: 0
+    - m_Name: 
+      m_Id: fc8cae89-9fea-4d78-bf2d-ae6c6dbd0f6f
+      m_Path: <XRController>{RightHand}/thumbstickTouched
       m_Interactions: 
       m_Processors: 
       m_Groups: 
