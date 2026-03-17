@@ -93,7 +93,7 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 20201, guid: 0000000000000000f000000000000000, type: 0}
+  m_LightingDataAsset: {fileID: 112000000, guid: c6ba56bdb8cadc447a84fb281c06bc8e, type: 2}
   m_LightingSettings: {fileID: 4890085278179872738, guid: 42aaf8d50c4d15544bf041fc641c13ce, type: 2}
 --- !u!196 &4
 NavMeshSettings:
@@ -441,6 +441,14 @@ PrefabInstance:
     - target: {fileID: 6041712068339329030, guid: d9470993b9bd0a541a884d6f6704a421, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 6166717289913089555, guid: d9470993b9bd0a541a884d6f6704a421, type: 3}
+      propertyPath: m_BoundingSphereOverride.x
+      value: 0.0078125
+      objectReference: {fileID: 0}
+    - target: {fileID: 6166717289913089555, guid: d9470993b9bd0a541a884d6f6704a421, type: 3}
+      propertyPath: m_BoundingSphereOverride.z
+      value: 0.0078125
       objectReference: {fileID: 0}
     - target: {fileID: 6470914648387029666, guid: d9470993b9bd0a541a884d6f6704a421, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -13539,6 +13547,18 @@ PrefabInstance:
     - target: {fileID: 2039689778054741381, guid: deb9c7803f41d864c8272ceb6ff2d290, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2376884363843197155, guid: deb9c7803f41d864c8272ceb6ff2d290, type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 2.73e-43
+      objectReference: {fileID: 0}
+    - target: {fileID: 2376884363843197155, guid: deb9c7803f41d864c8272ceb6ff2d290, type: 3}
+      propertyPath: m_BoundingSphereOverride.y
+      value: 8.974711e+18
+      objectReference: {fileID: 0}
+    - target: {fileID: 2376884363843197155, guid: deb9c7803f41d864c8272ceb6ff2d290, type: 3}
+      propertyPath: m_BoundingSphereOverride.z
+      value: 7.92e-43
       objectReference: {fileID: 0}
     - target: {fileID: 2832492306280994319, guid: deb9c7803f41d864c8272ceb6ff2d290, type: 3}
       propertyPath: m_StaticEditorFlags
